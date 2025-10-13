@@ -5,4 +5,3 @@ This code was based on the InterPro API suggested code, as well as the NCBI API 
 
 The GNINA version used was 1.3 and can be found here: https://github.com/gnina/gnina.git
 
-Information for the plasmid backbone used in all molecular biology is under plasmid_inf. This includes the plasmid map, the annotated .dna file and the unannotated .fasta file.
