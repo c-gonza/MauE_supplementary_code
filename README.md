@@ -1,7 +1,12 @@
 # MauE_supplementary_code
-This is a repository for the code used in dataset construction for the scientific publication "MauE reveals a new pathway for disulfide bond formation in bacteria". For any additional information please reach out through github or by the correspondence email listed in the publication.
+This is a repository for the code used in dataset construction for the scientific publication center in MauE as a disulfide bond formation protein.
 
-This code was based on the InterPro API suggested code, as well as the NCBI API guides. The intention is for this to be run as a .ipynb but a python file is also provided. Included are the run files for GNINA which was used for molecular docking predictions, and their output scores. 
+All code used is in this github. 
+supplementary data files can be gound at https://doi.org/10.5281/zenodo.18197764
 
-The GNINA version used was 1.3 and can be found here: https://github.com/gnina/gnina.git
+the notebooks listed are sequential and are set up so they can be repeated by others to reproduce the data analysis.
+
+This data was constructed before in 10.2024 and there has since been updates to Uniprot and Interpro that will change output if starting from 
+raw API pulls. To recreate our exact materials use the initial data tables in the directory "uncombined_rawdata" as a starting point for notebook
+1, and continue from there.
 
