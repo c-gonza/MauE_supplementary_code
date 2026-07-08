@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/1072837401.svg)](https://doi.org/10.5281/zenodo.18199468)
+[![DOI](https://zenodo.org/badge/1072837401.svg)](https://doi.org/10.5281/zenodo.21258076)
 
 # MauE_supplementary_code
 This is a repository for the code used in dataset construction for the scientific publication center in MauE as a disulfide bond formation protein.
