@@ -16,3 +16,6 @@ This data was constructed before in 10.2024 and there has since been updates to 
 raw API pulls. To recreate our exact materials use the initial data tables in the directory "uncombined_rawdata" as a starting point for notebook
 1, and continue from there.
 
+Additionally to complete our analysis we required the use of the Uniprot march 2025 backup available for download from UniProt at:
+https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2025_03/
+
